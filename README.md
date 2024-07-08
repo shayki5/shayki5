@@ -17,4 +17,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayki5&show_icons=true&count_private=true&theme=nord&hide=contribs)
 
 ### Technologies that I'm passionate about: 
-Auzre DevOps, Git, CI/CD, Docker, Kubernetes, AWS, Terraform, PowerShell, Python.
+GitHub Actions, Auzre DevOps, Git, CI/CD, Docker, Kubernetes, AWS, Terraform, Terragrunt, Python, PowerShell.
