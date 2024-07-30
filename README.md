@@ -26,18 +26,18 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSktBA62mNYdofReJLwfcCT3qxY1FaThxANpg&s" alt="azure-devops" width="40" height="40"/>
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s" alt="github-actions" width="40" height="40"/>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://miro.medium.com/v2/resize:fit:256/1*C9_DRETsaoPtMde_w71I_A.png" alt="helm" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="terraform" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="python" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s" alt="git" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0TtaTbg9dT7tqx_qxhQFC4ul9meZdIW9MQ&s" alt="github" width="40" height="40"/>
-</a> </p>
+  <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSktBA62mNYdofReJLwfcCT3qxY1FaThxANpg&s" alt="azure-devops" width="40" height="40"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s" alt="github-actions" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:256/1*C9_DRETsaoPtMde_w71I_A.png" alt="helm" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="terraform" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="python" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s" alt="git" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0TtaTbg9dT7tqx_qxhQFC4ul9meZdIW9MQ&s" alt="github" width="40" height="40"/>
+</p>
 
 
 <h2 align='center'>
