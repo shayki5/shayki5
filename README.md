@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
   <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSktBA62mNYdofReJLwfcCT3qxY1FaThxANpg&s" alt="azure-devops" width="40" height="40"/>
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s" alt="github-actions" width="40" height="40"/>
@@ -46,4 +46,5 @@
 <p align='center'>
 <img align="center" src="https://github-readme-stats-two-sand-87.vercel.app/api?username=shayki5&count_private=true&show_icons=true&hide_rank=false&theme=solarized-light&show=reviews" />
 <img align="center" src="https://github-readme-stats-two-sand-87.vercel.app/api/top-langs/?username=shayki5&layout=donut&theme=solarized-light&size_weight=0&count_weight=1" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=shayki5&theme=flat&column=-1&margin-w=10" />
 </p>
