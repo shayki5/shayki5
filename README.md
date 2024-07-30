@@ -45,5 +45,5 @@
 </h2>
 <p align='center'>
 <img align="center" src="https://github-readme-stats-two-sand-87.vercel.app/api?username=shayki5&count_private=true&show_icons=true&hide_rank=false&theme=solarized-light&show=reviews" />
-<img align="center" src="https://github-readme-stats-two-sand-87.vercel.app/api/top-langs/?username=shayki5&layout=donut&theme=solarized-light" />
+<img align="center" src="https://github-readme-stats-two-sand-87.vercel.app/api/top-langs/?username=shayki5&layout=donut&theme=solarized-light&size_weight=0&count_weight=1" />
 </p>
