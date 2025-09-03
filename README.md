@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <a href="https://stackoverflow.com/users/7409220/shayki-abramczyk?tab=profile">
     <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/7409220?theme=cobalt" alt="user:7409220's SO profile">
   </a>
 </p>
@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:256/1*C9_DRETsaoPtMde_w71I_A.png" alt="helm" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="terraform" width="40" height="40"/>
+  <img src="https://thafd.bing.com/th/id/OIP.HFO9zxBiwtxNJZ_R89qnbQHaHa?w=169&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="terraform" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="python" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s" alt="git" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0TtaTbg9dT7tqx_qxhQFC4ul9meZdIW9MQ&s" alt="github" width="40" height="40"/>
